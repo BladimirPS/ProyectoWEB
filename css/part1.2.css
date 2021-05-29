@@ -1,0 +1,96 @@
+#heder{
+ 	background-color: #000000;
+    color:white;
+    font-size: 40px;
+    font-family:rockwell;
+
+ } 
+ #heder h1 {
+ 	margin: 0px;
+ 	 padding: 0px;
+
+} 
+ul {
+	background:#00B5E5; 
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+ul li a{
+	padding: 10px 20px;
+	display:block;
+	color:#fff;
+	text-decoration: none;
+}
+ul li a:hover{
+	background: #66DFFF;
+}
+ul {list-style: none;
+padding: 0;
+overflow: hidden;
+} 
+
+body{
+	margin: 0px;
+	background: url(../fotos/wallpaperbetter.jpg);
+	background-image: 100%;
+	width:100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+} 
+ul {list-style: none;
+padding: 0;
+overflow: hidden;} 
+
+
+#heder li{float: left;
+	margin: 0 0px 0 0;
+} 
+#content{padding:0px;}
+
+#heder ul a { color: #ffffff;
+	text-decoration: none;
+
+ } 
+ #heder ul a:hover
+ { color: #ff9999; } 
+
+ #content img, #content p {
+ float:left;
+ margin: 30 px;
+}
+div p {
+	width:1000px;
+	background: rgba(14,203,229,0.5) ;
+	margin: 100px 50px;
+	padding:0px;
+	border: 10px solid rgba(0,0,0,0.7);
+	color: #ffffff;
+	font-size: 25px;
+	font-family:rockwell;
+	line-height:50px;
+	display:inline-block;
+}
+.caja:hover{
+	width: 1030px;
+	font-size: 30px;
+}
+.caja{
+width: 1000px;
+border-radius: 25px;
+}
+div{
+	width: 100%;
+}
+img {
+	border:20px solid rgba(0,0,0,0.7);
+	margin:500px -1000px;
+	height: auto;
+	width: 700px;
+	border-radius: 25px;
+	display:block;
+}
+img:hover{
+	width: 850px;
+}

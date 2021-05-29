@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url(../fotos/inicio.jpg);
+	background-repeat: no-repeat;
+	width:100%;
+	background-attachment: fixed;
+}
+header{
+	background: #000000;
+	width:100%;
+	max-width:100%; 
+	color:white;
+    font-size: 35px;
+    font-family:rockwell;
+	margin: auto;
+}
+header nav{
+	background:#00B5E5; 
+	overflow: hidden;
+}
+header nav ul{
+	list-style: none;
+}
+header nav ul li{
+	float: left;
+}
+header nav ul li a{
+	padding: 10px 20px;
+	display:block;
+	color:#fff;
+	text-decoration: none;
+}
+header nav ul li a:hover{
+	background: #66DFFF;
+}
+.main .articles {
+	width: 80%;
+	float: left;
+	background: rgba(0,0,0,0.6); 
+	color:white;
+    font-size: 30px;
+    font-family:rockwell;
+    border: 10px solid rgba(0,0,0,0.7);
+    margin: 100px 80px;
+    border-radius: 25px;
+    padding:10px;
+}
+h3{
+	width: 80%;
+	float: left;
+	background: rgba(0,0,0,0.6); 
+	color:white;
+    font-size: 30px;
+    font-family:rockwell;
+    border: 10px solid rgba(0,0,0,0.7);
+    margin: 0px 100px;
+    border-radius: 25px;
+    padding:10px;
+    text-align: center;
+}
+h4{
+	width: 80%;
+	float: left;
+	background: rgba(167,0,0,0.6); 
+	color:white;
+    font-size: 30px;
+    font-family:rockwell;
+    border: 10px solid rgba(0,0,0,0.7);
+    margin: 80px 25px 10px 10px ;
+    border-radius: 25px;
+    padding:10px;
+    text-align: center;
+}
+aside{
+	color:white;
+	width:80%;
+	background:none;
+	float: left; 
+	font-size: 30px;
+	margin: 100px 80px;
+	display:block;
+}
+aside p {
+	float: left; 
+	font-size: 50px;
+	margin: 120px 2px;
+	display:block;
+	background:rgba(0,0,0,0.6);
+	border: 10px solid rgba(0,0,0,0.7);
+	border-radius: 25px;
+}
+aside img{
+	float: left; 
+	margin: 80px 80px;
+	display:block;
+	border-radius: 50%;
+} 

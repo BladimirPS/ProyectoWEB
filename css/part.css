@@ -1,0 +1,86 @@
+#heder{
+ 	background-color: #000000;
+    color:white;
+    font-size: 40px;
+    font-family:rockwell;
+
+ } 
+ #heder h1 {
+ 	margin: 0px;
+ 	 padding: 0px;
+ } 
+
+body{
+	margin: 0px;
+	background: url(../fotos/France_480439.jpg);
+	background-image: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+} 
+ul {
+	background:#00B5E5; 
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+ul li a{
+	padding: 10px 20px;
+	display:block;
+	color:#fff;
+	text-decoration: none;
+}
+ul li a:hover{
+	background: #66DFFF;
+}
+ul {list-style: none;
+padding: 0;
+overflow: hidden;} 
+
+
+#heder li{float: left;
+	margin: 0 px 0 0;
+} 
+#content{padding: 20px;}
+
+#heder ul a { color: #ffffff;
+	text-decoration: none;
+
+ } 
+ #heder ul a:hover
+ { color: #ff9999; } 
+
+ #content img, #content p {
+ float:left;
+ margin: 30 px;
+}
+div p {
+	width:15%;
+	background: rgba(14,203,229,0.5) ;
+	margin: 10px 50px;
+	padding: 10px;
+	border: 10px solid rgba(0,0,0,0.7);
+	color: #ffffff;
+	font-size: 30px;
+	font-family:rockwell;
+	line-height:70px
+
+
+}
+img {
+	border:20px solid rgba(0,0,0,0.7);
+	margin: 10px 30px;
+	width: 25%;
+	border-radius: 25px;
+}
+img:hover{
+	width: 30%;
+}
+.caja:hover{
+	width: 1100px;
+	font-size: 40px;
+}
+.caja{
+width: 1000px;
+border-radius: 25px;
+}

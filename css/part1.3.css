@@ -1,0 +1,125 @@
+body{
+ 	background:#000000;
+    color:white;
+    font-size: 40px;
+    font-family:rockwell;
+ } 
+h1{
+ 	margin: 0px;
+ 	padding: 0px 0px ;
+ 	background:#000000;
+ } 
+ h2,h3{
+ 	text-indent:40px;
+ }
+ h4 {
+ 	padding: 0px 0px ;
+ 	background:#000000;
+ 	border-radius: 25px;
+ }
+
+body{
+	margin: 0px;
+	width: 100%;
+	background: url(../fotos/400903-svetik_3840x2160.jpg);ç
+	background-image: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+} 
+ul {
+	background:#00B5E5; 
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+ul li a{
+	padding: 10px 20px;
+	display:block;
+	color:#fff;
+	text-decoration: none;
+}
+ul li a:hover{
+	background: #66DFFF;
+}
+ul {list-style: none;
+padding: 0;
+overflow: hidden;
+} 
+
+ul {list-style: none;
+padding: 0;
+overflow: hidden;} 
+
+
+li{float: left;
+	margin: 0;
+	padding: 0px;
+}
+
+ul a { color: #ffffff;
+	text-decoration: none;
+
+ } 
+ul a:hover
+ { color: #ff9999; } 
+
+ #content img, #content p {
+ float:left;
+ margin: 10 px;
+}
+div p {
+	width:75%;
+	background: rgba(156,6,6,0.5) ;
+	margin: 100px 200px;
+	padding: 10px;
+	border: 10px solid rgba(0,0,0,0.7);
+	color: #ffffff;
+	font-size: 20px;
+	font-family:rockwell;
+	line-height:70px
+
+
+}
+img {
+	border:20px solid rgba(0,0,0,0.7);
+	margin: 50px 370px;
+	width: 30%;
+	border-radius: 25px;
+}
+img:hover{
+	width: 40%;
+}
+p:hover{
+	width: 80%;
+	font-size: 20px;
+}
+p{
+width: 75%;
+border-radius: 25px;
+}
+.box1{
+	margin: 100px 200px;
+}
+iframe{
+	width: 75%;
+border-radius: 25px;
+margin: 100px 200px;
+}
+iframe:hover{
+	width: 80%;
+}
+.subs{
+	width: 95%;
+	text-indent:100px;
+	border: 10px solid rgba(0,0,0,0.7);
+	color: #fff;
+	font-size: 40px;
+	font-family:rockwell;
+	line-height:70px
+}
+.uv{
+	font-size: 80px;
+	width: 95%;
+	text-indent:100px;
+}
